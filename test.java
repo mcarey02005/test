@@ -11,3 +11,5 @@ public class test {
 // git add .
 // git commit -m "test"
 // git push origin main      main is repo/branch in ur pc, we are pushing whats in main to origin.  git push . works after
+
+// code .git opens hidden .git directory
